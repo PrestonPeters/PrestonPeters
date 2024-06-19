@@ -5,6 +5,7 @@ a variety of ways. I am proficient with coding in Java, Javascript, C#, HTML5, a
 - Current Location: Saskatoon, Saskatchewan, Canada
 - Education: B.Sc. Computer Science (Great Distinction), University of Saskatchewan
 
+[My LinkedIn Profile](https://www.linkedin.com/in/preston-peters-83a640314/)
 
 You can view a couple of the later projects that I've made to get a sense of my work:
 - [WealthWise](https://github.com/PrestonPeters/WealthWise) - A multipurpose financial calculator made by myself and 6 of my classmates
