@@ -12,4 +12,4 @@ You can view a couple of the later projects that I've made to get a sense of my 
 - [BugHunt](https://github.com/PrestonPeters/BugHunt) - A StackOverflow derivative website prototype made by me
 - [MenuExperimentation](https://github.com/PrestonPeters/MenuExperimentation) - Software designed by myself and 3 classmates to test menu performance in regards to Fitts' Law, the Power Law of Practice, and user experience
 
-My current project is a Unity C# video game with the working title GhostTown which I've put many hours and over 600 commits into. This is currently a private repository, but if I've gotten in touch with you and you would like read-only access to the repository for viewing, please reach out!
+My current project is a Unity C# farming sim/JRPG crossover with the working title GhostTown which I've put many hours and over 600 commits into. This is currently a private repository, but if I've gotten in touch with you and you would like read-only access to the repository for viewing, please reach out!
